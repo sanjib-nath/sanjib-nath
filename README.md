@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Sanjib 👋
 
-<!--
-**sanjib-nath/sanjib-nath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student who likes **coding, science, anime and building random stuff**.
 
-Here are some ideas to get you started:
+💻 Currently learning and working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python & C
+* Algorithms & Data Structures
+* Physics Simulations
+
+🔭 I like making projects where I can actually understand **how things work under the hood**, rather than just following tutorials.
+
+🌌 Outside of coding, I'm interested in **Physics, Space, History, Digital Art and Anime**.
+
+Currently learning, experimenting and building things. 🚀
